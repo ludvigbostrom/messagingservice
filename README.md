@@ -1,6 +1,6 @@
 # messagingservice
 
-Used a postgresql database. Config to connect in src/main/resources, if not able to connect a local storage is used(Does not save between shutting down the server).
+Used a postgresql database. Config to connect in src/main/resources, if not able to connect a local storage is used(Does not save between shutting down the server, put there for testing purposes if not able to set up database).
 
 sql command to create needed table is in src/main/sql.
 
